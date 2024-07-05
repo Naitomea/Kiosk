@@ -136,8 +136,10 @@ The web app is built using React and MUI for the UI components. Key features inc
 
 - **User Experience:** Prioritizes smooth and fluid interaction.
 - **Data Fetching:** Fetches all data at startup to minimize the number of API calls, as the data size is negligible.
+- **URL based:** App navigation based on the URL.
 - **Dark/Light Mode:** Supports both dark and light themes.
 - **Responsive Design:** Fully responsive and optimized for mobile devices.
+
 ## Conclusion
 
 By following the above instructions, you should be able to set up and run the full-stack project successfully. If you have any questions or encounter any issues, feel free to contact me.
