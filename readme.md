@@ -68,7 +68,7 @@ The API is built using Node.js, Express, and Mongoose. It provides the following
 
 Retrieve the taxonomy sorted by topic/subtopic.
 
-```http
+```bash
   GET /api/taxonomy/
 ```
 
@@ -76,7 +76,7 @@ Retrieve the taxonomy sorted by topic/subtopic.
 
 Retrieve the taxonomy sorted by level.
 
-```http
+```bash
   GET /api/taxonomy/full
 ```
 
@@ -84,7 +84,7 @@ Retrieve the taxonomy sorted by level.
 
 Retrieve all nodes.
 
-```http
+```bash
   GET /api/nodes
 ```
 
@@ -92,7 +92,7 @@ Retrieve all nodes.
 
 Update the answer of the node with the specified ID.
 
-```http
+```bash
   PUT /api/nodes/${id}
 ```
 
@@ -105,7 +105,7 @@ Update the answer of the node with the specified ID.
 
 Clear the answer of thenode with the specified ID.
 
-```http
+```bash
   DELETE /api/nodes/${id}
 ```
 
