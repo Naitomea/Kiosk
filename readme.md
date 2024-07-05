@@ -2,9 +2,16 @@
 # Kiosk Full-Stack Project
 
 This is a full-stack project for a job application, where the objective is to create an API and a web app to reconstruct a taxonomy from a CSV file, displaying a tree list view of topics and subtopics with associated questions.
+
+### Technologies
+
+- **API:** Node.js, Express, Mongoose (MongoDB)
+- **Web App:** React, React-Router, MUI
+
 ## Demo
 
 ![App Preview](preview.gif)
+
 ## Installation
 
 ### Prerequisites
