@@ -1,0 +1,13 @@
+.container {
+  position: relative;
+}
+.arrow {
+  position: absolute;
+  left: 0;
+  top: 0;
+  margin-left: -15px;
+  user-select: none;
+}
+.subTree {
+  overflow: hidden;
+}
